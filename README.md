@@ -1,4 +1,4 @@
-# 🧪 CAVE Labs Unity 3D Project  
+#  CAVE Labs Unity 3D Project  
 ## 🌀 Maze Explorer 3D
 
 > "Maze Explorer 3D" is a **Maze Runner-style game** built in **Unity 3D**, where the player controls a robot navigating through challenging maze environments filled with static and dynamic obstacles.
