@@ -100,11 +100,11 @@ The project contains **four scenes**, played in the following order:
 
 | Menu Scene | Level 1 | Level 2 | Credits |
 |------------|---------|---------|---------|
-| ![image](https://github.com/user-attachments/assets/11c3c004-7226-45c4-9be0-0d08b347d9c0)
- | ![image](https://github.com/user-attachments/assets/524866a6-e3bb-4009-b360-152d4c4fc868)
- | ![image](https://github.com/user-attachments/assets/99ed95bd-8615-48af-ba8a-0ce822cf6d5e)
- | ![image](https://github.com/user-attachments/assets/6743d2b6-f618-491a-8530-257e0e8fd0d5)
- |
+| ![image](https://github.com/user-attachments/assets/11c3c004-7226-45c4-9be0-0d08b347d9c0) |
+ | ![image](https://github.com/user-attachments/assets/524866a6-e3bb-4009-b360-152d4c4fc868) |
+ | ![image](https://github.com/user-attachments/assets/99ed95bd-8615-48af-ba8a-0ce822cf6d5e) |
+ | ![image](https://github.com/user-attachments/assets/6743d2b6-f618-491a-8530-257e0e8fd0d5) |
+ 
 
 ## Thank You !!
 
