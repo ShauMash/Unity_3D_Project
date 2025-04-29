@@ -69,6 +69,7 @@ The project contains **four scenes**, played in the following order:
 | Move                | `WASD` / `Arrow Keys` |
 | Jump                | `Spacebar`         |
 | UI Interactions     | Mouse / Keyboard   |
+| Sprint              | Left-Shift         |
 
 ---
 
@@ -96,10 +97,7 @@ The project contains **four scenes**, played in the following order:
 
 ---
 
-## 🖼️ Media (Replace below with your actual screenshots/gifs)
-
-| Menu Scene | Level 1 | Level 2 | Credits |
-|------------|---------|---------|---------|
+## 🖼️ Scenes
 | ![image](https://github.com/user-attachments/assets/11c3c004-7226-45c4-9be0-0d08b347d9c0) |
  | ![image](https://github.com/user-attachments/assets/524866a6-e3bb-4009-b360-152d4c4fc868) |
  | ![image](https://github.com/user-attachments/assets/99ed95bd-8615-48af-ba8a-0ce822cf6d5e) |
